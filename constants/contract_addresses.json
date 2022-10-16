@@ -1,0 +1,83 @@
+{
+  "optimism": {
+    "lyra_quoter": {
+      "address": "0xea83ee73eB397c5974CB6b5220AE0A32fbE48B2B"
+    },
+    "greek_cache": {
+      "address": "0xbb3e8Eac35e649ed1071A9Ec42223d474e67b19A"
+    },
+    "optionmarket_eth": {
+      "address": "0x1d42a98848e022908069c2c545aE44Cc78509Bc8"
+    },
+    "optionmarket_wrapper": {
+      "address": "0xCCE7819d65f348c64B7Beb205BA367b3fE33763B"
+    },
+    "optionmarket_btc": {
+      "address": "0xc7f1A22c30aE981E6A74a0267CE6cBBF27D8ecD5"
+    },
+    "price_feed": {
+      "address": "0x7f99817d87baD03ea21E05112Ca799d715730efe"
+    },
+
+    "quoter": {
+      "address": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6"
+    },
+
+    "multicall": {
+      "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8"
+    },
+    "gas_price_feed": {
+      "address": "0x13e3Ee699D1909E989722E753853AE30b17e08c5",
+      "decimals": 8
+    },
+    "gas_price_oracle": {
+      "address": "0x420000000000000000000000000000000000000F"
+    },
+    "usdt": {
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "decimals": 6
+    },
+    "weth": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18
+    },
+    "seth": {
+      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+      "decimals": 18
+    }
+  },
+  "arbitrum": {
+    "quoter": {
+      "address": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6"
+    },
+    "ethweekly": {
+      "address": "0x9Cc9BeffE64868CB4B97890A19219449890E6eA0"
+    },
+    "multicall": {
+      "address": "0xd7B915a3F8d2B4AcB7B86f401A4fD672B5E48D70"
+    },
+    "usdc": {
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "decimals": 6
+    },
+    "usdt": {
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9  ",
+      "decimals": 6
+    },
+    "weth": {
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "decimals": 18
+    },
+    "link": {
+      "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+      "decimals": 18
+    },
+    "price_feed": {
+      "address": "0x639Fe6ab55C921f74e7fac1ee960C0B6293ba612",
+      "decimals": 8
+    },
+    "allowance_target": {
+      "address": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF"
+    }
+  }
+}
